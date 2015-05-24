@@ -1,0 +1,1 @@
+The 0.2.8 has been released - RC testing results can be found [in the forum](https://groups.google.com/forum/#!topic/kanbanik/OqBeo1VQD-A)

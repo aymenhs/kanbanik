@@ -1,0 +1,14 @@
+Current version of the application is 0.2.8
+
+| **File** | **Description** | **Download Link** |
+|:---------|:----------------|:------------------|
+| kanbanik-application-0.2.8 | **Stable** Main application (WAR file) without the runtime. Can be deployed to any java web server. Default Credentials: Username: admin Password: admin | http://sourceforge.net/projects/kanbanik/files/kanbanik-application-0.2.8.zip/download |
+| kanbanik-application-0.2.9-RC2 | **Release Candidate - unstable** Main application (WAR file) without the runtime. Can be deployed to any java web server. Default Credentials: Username: admin Password: admin | http://sourceforge.net/projects/kanbanik/files/kanbanik-application-0.2.9-RC2.zip/download |
+| kanbanik-application-0.2.9-RC1 | **Release Candidate - unstable** Main application (WAR file) without the runtime. Can be deployed to any java web server. Default Credentials: Username: admin Password: admin | http://sourceforge.net/projects/kanbanik/files/kanbanik-application-0.2.9-RC1.zip/download |
+| kanbanik-application-0.2.7 | **Stable** Main application (WAR file) without the runtime. Can be deployed to any java web server. Default Credentials: Username: admin Password: admin | http://sourceforge.net/projects/kanbanik/files/kanbanik-application-0.2.7.zip/download |
+| kanbanik-application-0.2.8-RC2 | **Release Candidate - unstable** [Help Testing](https://code.google.com/p/kanbanik/wiki/RCTesting) Main application (WAR file) without the runtime. Can be deployed to any java web server. Default Credentials: Username: admin Password: admin | https://master-dl.sourceforge.net/project/kanbanik/kanbanik-application-0.2.8-rc2.zip |
+| kanbanik-application-0.2.8-RC1 | **Release Candidate - unstable** [Known Issues](https://groups.google.com/forum/#!topic/kanbanik/OqBeo1VQD-A)  Main application (WAR file) without the runtime. Can be deployed to any java web server. Default Credentials: Username: admin Password: admin | https://master-dl.sourceforge.net/project/kanbanik/kanbanik-application-0.2.8-rc1.zip |
+| kanbanik-runtime-0.2.0 for 64-bit Linux | Convenient runtime for simple install. Contains jetty, mongoDB and start script. Does not contain the application itself. | https://kanbanik.googlecode.com/files/kanbanik-runtime-linux-64-bit-0.2.0.zip |
+| kanbanik-runtime-0.2.0 for 32-bit Linux | Convenient runtime for simple install. Contains jetty, mongoDB and start script. Does not contain the application itself. | https://kanbanik.googlecode.com/files/kanbanik-runtime-32-bit-0.2.1.zip |
+| kanbanik-runtime-0.2.1 for Windows | Convenient runtime for simple install. Contains jetty, mongoDB and start script. Does not contain the application itself. | https://kanbanik.googlecode.com/files/kanbanik-runtime-win-0.2.1.zip |
+| Older Releases | List of older releases | https://code.google.com/p/kanbanik/downloads/list |
